@@ -17,3 +17,7 @@ This file contains all things numbers. E.g. measurements, distance, mathematics 
 _Docs - https://github.com/EPLHREU/emily-symbols_
 
 - [?] Do I want both my symbols file and Emily's symbols
+
+## Emily-modifiers
+
+_Docs - https://github.com/EPLHREU/emily-modifiers/tree/master_
