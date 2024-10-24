@@ -21,3 +21,6 @@ _Docs - <https://github.com/EPLHREU/emily-symbols>_
 ## Emily-modifiers
 
 _Docs - <https://github.com/EPLHREU/emily-modifiers/tree/master>_
+
+# Tests to add
+If it ends in a `-D` and have have an "s" to make it plural is should have a variation that ends in `-DZ`
